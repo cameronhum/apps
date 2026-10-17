@@ -1,5 +1,5 @@
-# Cymatic
+# Apps
 
-Bug reports for Cymatic, a Windows app by Cameron S Humphries.
+Public bug reports for Windows apps by Cameron S Humphries.
 
-Open an issue to report a bug. This repository is only the public issue list. It does not contain the app.
+Each app has its own label. Cymatic issues use the Cymatic label. This repository does not contain the apps.
